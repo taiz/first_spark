@@ -668,15 +668,15 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="SBT: org.uncommons.maths:uncommons-maths:1.2.2a:jar">
+      <library name="SBT: org.apache.commons:commons-lang3:3.0:jar">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.ivy2/cache/org.uncommons.maths/uncommons-maths/jars/uncommons-maths-1.2.2a.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.0.jar!/" />
         </CLASSES>
         <JAVADOC>
-          <root url="jar://$USER_HOME$/.ivy2/cache/org.uncommons.maths/uncommons-maths/docs/uncommons-maths-1.2.2a-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-lang3/docs/commons-lang3-3.0-javadoc.jar!/" />
         </JAVADOC>
         <SOURCES>
-          <root url="jar://$USER_HOME$/.ivy2/cache/org.uncommons.maths/uncommons-maths/srcs/uncommons-maths-1.2.2a-sources.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-lang3/srcs/commons-lang3-3.0-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
@@ -851,15 +851,15 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="SBT: org.apache.commons:commons-lang3:3.0:jar">
+      <library name="SBT: org.apache.httpcomponents:httpcore:4.4.1:jar">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.0.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.4.1.jar!/" />
         </CLASSES>
         <JAVADOC>
-          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-lang3/docs/commons-lang3-3.0-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.httpcomponents/httpcore/docs/httpcore-4.4.1-javadoc.jar!/" />
         </JAVADOC>
         <SOURCES>
-          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-lang3/srcs/commons-lang3-3.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.httpcomponents/httpcore/srcs/httpcore-4.4.1-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
@@ -1109,16 +1109,12 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="SBT: org.apache.httpcomponents:httpcore:4.4.1:jar">
+      <library name="SBT: xmlenc:xmlenc:0.52:jar">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.4.1.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/xmlenc/xmlenc/jars/xmlenc-0.52.jar!/" />
         </CLASSES>
-        <JAVADOC>
-          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.httpcomponents/httpcore/docs/httpcore-4.4.1-javadoc.jar!/" />
-        </JAVADOC>
-        <SOURCES>
-          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.httpcomponents/httpcore/srcs/httpcore-4.4.1-sources.jar!/" />
-        </SOURCES>
+        <JAVADOC />
+        <SOURCES />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
@@ -1789,13 +1785,15 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="SBT: javax.servlet:servlet-api:2.5:jar">
+      <library name="SBT: org.uncommons.maths:uncommons-maths:1.2.2a:jar">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.uncommons.maths/uncommons-maths/jars/uncommons-maths-1.2.2a.jar!/" />
         </CLASSES>
-        <JAVADOC />
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.uncommons.maths/uncommons-maths/docs/uncommons-maths-1.2.2a-javadoc.jar!/" />
+        </JAVADOC>
         <SOURCES>
-          <root url="jar://$USER_HOME$/.ivy2/cache/javax.servlet/servlet-api/srcs/servlet-api-2.5-sources.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.uncommons.maths/uncommons-maths/srcs/uncommons-maths-1.2.2a-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
@@ -1824,12 +1822,14 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="SBT: xmlenc:xmlenc:0.52:jar">
+      <library name="SBT: javax.servlet:servlet-api:2.5:jar">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.ivy2/cache/xmlenc/xmlenc/jars/xmlenc-0.52.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.ivy2/cache/javax.servlet/servlet-api/srcs/servlet-api-2.5-sources.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
   </component>
