@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157e5108-ee86-49c8-ba55-138a9b5e88d3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/first_spark-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/first_spark.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/part_time_work/insta.rb" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/part_time_work/insta_org.rb" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/.vim/bundle/.neobundle/doc/tags" afterPath="$USER_HOME$/.vim/bundle/.neobundle/doc/tags" />
@@ -15,10 +9,8 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/.vim/bundle/.neobundle/tags_info" afterPath="$USER_HOME$/.vim/bundle/.neobundle/tags_info" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/.vim/bundle/NeoBundle.lock" afterPath="$USER_HOME$/.vim/bundle/NeoBundle.lock" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/.vimrc" afterPath="$USER_HOME$/.vimrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/first_spark.iml" afterPath="$PROJECT_DIR$/.idea/modules/first_spark.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Dependencies.scala" afterPath="$PROJECT_DIR$/project/Dependencies.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/SimpleApp.scala" afterPath="$PROJECT_DIR$/src/main/scala/SimpleApp.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -91,11 +83,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SimpleApp.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SimpleApp.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/SimpleApp.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.39235413">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -126,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dependencies.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dependencies.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/Dependencies.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33199194">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -149,8 +141,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/SimpleApp.scala" />
         <option value="$PROJECT_DIR$/project/Dependencies.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SimpleApp.scala" />
       </list>
     </option>
   </component>
@@ -1163,18 +1155,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/SimpleApp.scala">
+    <entry file="file://$PROJECT_DIR$/project/Dependencies.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/Dependencies.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SimpleApp.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33199194">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.39235413">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
